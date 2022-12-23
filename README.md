@@ -1,5 +1,7 @@
 # ProyectoMongDB-SismoLogger
-Rest-API que muestra datos relacionados a los sismos al rededor del mundo
+Rest-API que muestra datos relacionados a los sismos al rededor del mundo.
+
+Proyecto desarrollado por Felipe Soto para el Curso de MongoDB impartido por escalab
 
 # Table of Contents
 - [ProyectoMongDB-SismoLogger](#proyectomongdb-sismologger)
