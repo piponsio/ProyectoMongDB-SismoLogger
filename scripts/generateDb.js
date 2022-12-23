@@ -3,6 +3,7 @@ mongoose.set('strictQuery', true);
 
 const countryModel = require('../models/country');
 const sismoModel = require('../models/sismo');
+
 const countriesData = require('../data/countries');
 const sismosData = require('../data/sismos');
 
