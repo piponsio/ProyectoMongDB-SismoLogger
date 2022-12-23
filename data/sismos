@@ -1,0 +1,10 @@
+const sismos = 
+[
+    {id: 0, country_id: 16, date: new Date('1960-05-22'), magnitude: 9.5, desciption: "Brigido"},
+    {id: 1, country_id: 215, date: new Date('2004-12-26'), magnitude: 9.3, desciption: "El segundo terremoto más fuerte del a historia"},
+    {id: 2, country_id: 241, date: new Date('2011-03-11'), magnitude: 9.0, desciption: "El terremoto más actual de la lista. Hasta ahora"},
+    {id: 3, country_id: 246, date: new Date('1952-11-04'), magnitude: 9.0, desciption: "Vitas - The 7th Element"},
+    {id: 4, country_id: 16, date: new Date('2010-02-27'), magnitude: 8.8, desciption: "Otra vez ? Stop plz"},
+];
+
+module.exports = sismos;
